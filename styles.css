@@ -12,7 +12,7 @@
 	display: block;
 	width: 400px;
 	margin: 0px auto;
-	line-height: 24px; /* it can also be height, but it's recommended to use line-height */
+	line-height: 24px;
 	padding: 10px 30px;
 	border: 1px solid #dfe1e5;
 	border-radius: 24px;
